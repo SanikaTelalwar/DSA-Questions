@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0414-third-maximum-number) |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
