@@ -1,3 +1,6 @@
+//BRUTE FORCE APPROACH (SORT THE ARRAY)
+
+//BETTER FORCE APPROACH 
 class Solution {
     public void sortColors(int[] nums) {
       int count0=0;
@@ -29,6 +32,38 @@ class Solution {
       for(int i=count0 + count1;i<nums.length;i++)
       {
         nums[i]=2;
+      }
+
+    }
+}
+
+//OPTIMAL APPROACH(DUTCH NATIONAL FLAG ALGORITHM)
+class Solution {
+    public void sortColors(int[] nums) {
+      int low=0;
+      int mid=0;
+      int high=nums.length-1;
+      while(mid<=high)
+      {
+        if(nums[mid]==0)
+        {
+            int temp=nums[low];
+            nums[low]=nums[mid];
+            nums[mid]=temp;
+            low++;
+            mid++;
+        }
+        else if(nums[mid]==1)
+        {
+            mid++;
+        }
+        else
+        {
+            int temp=nums[high];
+            nums[high]=nums[mid];
+            nums[mid]=temp;
+            high--;
+        }
       }
 
     }
