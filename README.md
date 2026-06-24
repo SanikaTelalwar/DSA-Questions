@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0414-third-maximum-number) |
@@ -12,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
