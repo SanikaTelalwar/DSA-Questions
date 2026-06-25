@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
