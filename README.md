@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0169-majority-element) |
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
