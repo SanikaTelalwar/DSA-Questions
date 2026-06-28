@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0055-jump-game) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
