@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
