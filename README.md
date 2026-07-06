@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0229-majority-element-ii) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Stack
 |  |
 | ------- |
