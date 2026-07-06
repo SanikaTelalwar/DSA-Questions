@@ -33,7 +33,6 @@ class Solution {
 
 class Solution {
     public int vowelStrings(String[] words, int left, int right) {
-        char[] vowels={'a','e','i','o','u'};
         int count=0;
         for(int i=left;i<=right;i++)
         {
