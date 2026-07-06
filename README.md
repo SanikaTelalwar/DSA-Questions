@@ -103,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
