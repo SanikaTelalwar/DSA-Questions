@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0055-jump-game) |
+| [1903-largest-odd-number-in-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Stack
 |  |
