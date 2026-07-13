@@ -124,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
