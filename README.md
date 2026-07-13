@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
