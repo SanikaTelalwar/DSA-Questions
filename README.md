@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0048-rotate-image) |
+| [0633-sum-of-square-numbers](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
