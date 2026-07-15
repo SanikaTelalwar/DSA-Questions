@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
