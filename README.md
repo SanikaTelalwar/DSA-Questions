@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0242-valid-anagram) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0328-odd-even-linked-list) |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SanikaTelalwar/DSA-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
